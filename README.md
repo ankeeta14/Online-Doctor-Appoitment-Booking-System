@@ -1,1 +1,2 @@
-# Online-Doctor-Appoitment-Booking-System
+A doctor appointment can be obtained by a patient through this website.
+
